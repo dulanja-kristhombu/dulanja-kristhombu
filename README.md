@@ -1,7 +1,10 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanja-kristhombu&label=Profile%20views&color=0e75b6&style=flat" alt="dulanja-kristhombu" /> </p>
+
 <h1 align="center">Hi 👋, I'm Dulanja</h1>
 <h3 align="center">A software engineer specializing in Android development and currently studying at NIBM.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanja-kristhombu&label=Profile%20views&color=0e75b6&style=flat" alt="dulanja-kristhombu" /> </p>
+
 
 - 🔭 I’m currently working on [DateMate](https://github.com/dulanja-kristhombu/DateMate)
 
