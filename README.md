@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DateMate](https://github.com/dulanja-kristhombu/DateMate)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **iOS**
 
 - 💬 Ask me about **Kotlin**
 
